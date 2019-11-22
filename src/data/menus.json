@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "Test",
+      "title": "Test Menu",
+      "url": "#",
+      "weight": 10
+    }
+  ]
+}
